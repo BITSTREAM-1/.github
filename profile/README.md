@@ -3,12 +3,12 @@ Leverge the power of the blockchain to maintain ownership and tracking of the co
 
 ## Know when the next big thing in the metaverse is about to 3RUPT
 
-🎥 Frustrated? Can't seem to buy before the blast-off? 
+🗃️ All content will be managed on a single blockchain but can be transfered across chains. 
 
-🗃️ Use pre-built queries or custom queries, even third-party queries from other dapps.
+🎥 Movies and Shows can be accessed based on the permissions of the network.
 
-🎚️ Get in before the trend takes off using data analysis and notifications, then ride the wave down.
+🎚️ The creators can build in preferences for their content, however the codebased must be open to editors.
 
-🎧 Be the FIRST to get the latest and the greatest.
+🎧 Musicians can enjoy circulation of thier content with less boundaries to access.
 
 #### [An ECE Dapp](https://github.com/elicharlese)
